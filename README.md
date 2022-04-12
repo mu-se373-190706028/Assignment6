@@ -15,3 +15,14 @@ Shows all the information you entered at main page
 ![image](https://user-images.githubusercontent.com/101174793/161934081-049ba31d-8561-4ad4-8630-b68ae6387ff4.png)
 
 Pressing logout button will bring you back to the login page
+
+
+
+Database Structure 
+
+![image](https://user-images.githubusercontent.com/101174793/163044786-234e1816-d1df-4ede-85c1-795f9d41ccbb.png)
+
+
+Entered users
+
+![image](https://user-images.githubusercontent.com/101174793/163044908-742da3d9-e567-4914-a4b6-dea5c8efa964.png)

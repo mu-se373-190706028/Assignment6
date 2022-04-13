@@ -25,4 +25,4 @@ Database Structure
 
 Entered users
 
-![image](https://user-images.githubusercontent.com/101174793/163044908-742da3d9-e567-4914-a4b6-dea5c8efa964.png)
+![image](https://user-images.githubusercontent.com/101174793/163119311-930ac729-75a6-413b-ae31-9b453be10a2d.png)
